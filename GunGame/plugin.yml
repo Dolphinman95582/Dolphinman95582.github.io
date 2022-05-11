@@ -1,0 +1,17 @@
+name: GunGame
+main: io.github.Dolphinman95582.gungame.GunGame
+version: 1.0
+api-version: 1.17
+commands:
+    join:
+      description: join queue
+      usage: /<command>
+    begin:
+      description: starts the game thats queued
+      usage: /<command>
+    leave:
+      description: leave queue or game
+      usage: /<command>
+    end:
+      description: end game
+      usage: /<command>
